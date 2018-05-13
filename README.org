@@ -1,0 +1,1 @@
+This is a minimal wrapper Clojure library around the Java [[https://github.com/jline/jline2][JLine]] library. This is *mostly* pilfered from the [[https://github.com/trptcolin/reply][REPLy]] library.
